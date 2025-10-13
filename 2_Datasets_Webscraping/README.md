@@ -9,7 +9,7 @@ Cada subcarpeta corresponde a una ejecución de scraping y contiene los datos cr
 ### 📁 Estructura
 ├── 20240508/
 │ ├── puestosbase_crudas.csv
-│ ├── puestos_titulos.csv
+│ ├── linkedin_titulos.csv
 │ └── metadata.json
 ├── 20240610/
 │ ├── puestos_crudas.csv
@@ -21,7 +21,7 @@ Cada subcarpeta corresponde a una ejecución de scraping y contiene los datos cr
 ### 🗓️ Registro de actualizaciones
 | Fecha | Carpeta | Cambio realizado | Autor/a |
 |--------|----------|------------------|----------|
-| 2025-10-10 | 20240508 | Recolectado dataset de titulares diarios | Allison Romero |
+| 2025-10-12 | 20251012 | Se agrego archivo mas reciente de trabajos sin limpiar (no se hizo scraping) | Allison Romero |
 
 
 ---

@@ -9,8 +9,9 @@ Los archivos deben estar nombrados según su función principal (**Limpieza_Text
 ### 📁 Archivos incluidos
 | Archivo | Descripción |
 |----------|-------------|
-| `Limpieza_TextosyRuido.ipynb` | Limpieza de caracteres, stopwords y símbolos. |
-| `Normalizacion_Fechas.py` | Convierte y valida formatos de fecha. |
+| `Codigo_EstandarizacionIdioma.ipynb` | Traductor y selecionador para un solo idioma. |
+| `Codigo_LimpiezaDeduplicados.ipynb` | Elimina duplicados tanto en ingles como español. |
+| `Codigo_EstandarzacionDeTitulos.ipynb` | Limpieza general de los titulos y creacion de diccionarios y pruebas. |
 
 ---
 
